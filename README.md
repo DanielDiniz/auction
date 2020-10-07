@@ -42,3 +42,7 @@ The API will be available on `http://localhost:8080/winner`
 
 ### Example:
 
+![alt text](example.png "example")
+
+
+
